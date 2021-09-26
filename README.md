@@ -8,8 +8,9 @@
 
 ### Reach Out to me
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" align = "top"/>[instagram]
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" align = "top"/>[linkedin]
+[<img height="32" width="32" alt ="eys_dev | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" align = "left"/>][instagram]
+[<img height="32" width="32" alt="Emre Eys | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" align = "left"/>][linkedin]
+
 
 <br />
 <br />
