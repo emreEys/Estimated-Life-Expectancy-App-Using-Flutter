@@ -4,7 +4,7 @@
 
 ## Flutter Developer |
 
-<font color="pink">Coffee coffee is how I keep up with '<code/>' </font>
+<font color="pink">Coffee coffee is how I keep up with '< code />' </font>
 
 ### Reach Out to me
 
