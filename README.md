@@ -29,7 +29,7 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eysshot">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eysshot" align = "bottom">
 </details>
 
 [instagram]: https://www.instagram.com/eys_dev
