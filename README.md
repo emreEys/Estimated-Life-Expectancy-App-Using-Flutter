@@ -2,11 +2,9 @@
 
 ### Hi there, I'm Emre. :blush:
 
-## Flutter Developer |
+## Flutter Estimated Life Expectancy App |
 
-<font color="pink">Coffee coffee is how I keep up with '< code />' </font>
-
-### Reach Out to me
+### Connect with me:
 
 [<img height="32" width="32" alt ="eys_dev | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" align = "left"/>][instagram]
 [<img height="32" width="32" alt="Emre Eys | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" align = "left"/>][linkedin]
@@ -14,18 +12,6 @@
 
 <br />
 <br />
-
-### Texh I Use
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width ="25" height="25" align = "left">
-<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width = "25" height="25" align = "left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width ="25" height="25" align = "left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width ="25" height="25" align = "left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width ="25" height="25" align = "left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width ="25" height="25" align = "left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width ="25" height="25" align = "left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width ="25" height="25" align = "left">
-
 <br /><br />
 
 ![banner picture](https://github.com/eysshot/Estimated-Life-Expectancy-App-Using-Flutter/blob/main/ui.png)
