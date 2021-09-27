@@ -14,7 +14,7 @@
 <br />
 <br /><br />
 
-<img height="500" width = "250" src="https://github.com/eysshot/Estimated-Life-Expectancy-App-Using-Flutter/blob/main/ui.png"/>
+<img height="700" width = "350" src="https://github.com/eysshot/Estimated-Life-Expectancy-App-Using-Flutter/blob/main/ui.png"/>
 
 
 <br />
